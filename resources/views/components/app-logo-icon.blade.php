@@ -1,0 +1,1 @@
+<img src="{{ asset('img/test.ico') }}" class="bg-white">
